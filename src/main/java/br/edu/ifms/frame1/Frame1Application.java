@@ -19,10 +19,5 @@ public class Frame1Application {
 	public String hello(){
 		return "Pagina inicial, para o site hehe";
 	}
-	@GetMapping("/Outro") // sempre colocar caminho diferente, não pode ter dois caminhos iguais 
-	public String hello2(){
-		return "Pagina dois, para o site ";
-	}
-	
 	
 }
