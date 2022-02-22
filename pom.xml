@@ -79,7 +79,4 @@
 			</plugin>
 		</plugins>
 	</build>
-git remote add origin https://github.com/Gabriel9816/aula_framework.git
-git branch -M main
-git push -u origin main
 </project>
